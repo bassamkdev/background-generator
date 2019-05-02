@@ -1,0 +1,10 @@
+#grad{
+	background-image: linear-gradient(to right, red, yellow);
+}
+body{
+	height: 100vh;
+
+}
+button{
+	margin: 10px;
+}
